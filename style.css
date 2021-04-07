@@ -1,0 +1,23 @@
+.button {
+	width: 50%;
+	font-size: 450%;
+	padding: 5px;
+}
+.login button {
+	width: 50%;
+	font-size: 450%;
+	padding: 5px;
+}
+.login input[type=text] {
+	width: 50%;
+	font-size: 450%;
+	padding: 5px;
+}
+.rules {
+	width: 50%;
+	font-size: 450%;
+	padding: 5px;
+}
+body {
+	background-color: rgb(61, 134, 13);
+}
